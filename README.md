@@ -18,7 +18,7 @@ following way:
 go-what-finder|master⚡ ⇒ WF_USERNAME=dewey WF_PASSWORD='example' go run main.go
 ```
 
-![](http://i.imgur.com/57CwBcm.png)
+![](https://i.imgur.com/OyysSLc.png)
 
 
 # TODO / Caveats
