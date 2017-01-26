@@ -23,18 +23,10 @@ go-what-finder|master⚡ ⇒ WF_USERNAME=dewey WF_PASSWORD='example' go run main
 
 # TODO / Caveats
 
-- [] Make nested folders work, an album with `CD1, CD2, Covers` directories in there won't work right now
-
-- [] Copy created torrent to torrent client's watch directory
-
-- [] Copy checked files into torrent client's complete directory if not already there
-
-- [] Make it less verbose, ignore things that already have the wrong file count
-
-- [] Currently it's logging in and out for each run, it should use the persisted cookie. Something's wrong with
-   my cookie implementation at the moment.
-
-- [] Properly fix the used Go library and create merge request for the original author (regarding cookie problem),
-   right now it's vendored and has some custom fixes in there.
-   
-- [] Provide binaries for people who don't have Go setup
+- [ ] Make nested folders work, an album with `CD1, CD2, Covers` directories in there won't work right now
+- [ ] Copy created torrent to torrent client's watch directory
+- [ ] Copy checked files into torrent client's complete directory if not already there
+- [ ] Make it less verbose, ignore things that already have the wrong file count
+- [ ] Currently it's logging in and out for each run, it should use the persisted cookie. Something's wrong with my cookie implementation at the moment.
+- [ ] Properly fix the used Go library and create merge request for the original author (regarding cookie problem), right now it's vendored and has some custom fixes in there.  
+- [ ] Provide binaries for people who don't have Go setup
