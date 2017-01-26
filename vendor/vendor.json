@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "EsBHTNoUJE0SKDmKB2dtr4zSNX0=",
+			"path": "github.com/dewey/whatapi",
+			"revision": "4d7b4d7d8eb43affb43710bacd8a4353355f49f0",
+			"revisionTime": "2016-08-03T13:35:24Z"
+		},
+		{
+			"checksumSHA1": "XEBl9iQQvfXNlwCSzyAOCqAlYEA=",
+			"path": "github.com/fatih/color",
+			"revision": "42c364ba490082e4815b5222728711b3440603eb",
+			"revisionTime": "2017-01-13T15:16:12Z"
+		},
+		{
+			"checksumSHA1": "WVLrdSaA86NuZs/fC9vijfjC6ag=",
+			"path": "github.com/juju/go4/lock",
+			"revision": "40d72ab9641a2a8c36a9c46a51e28367115c8e59",
+			"revisionTime": "2016-02-22T16:32:58Z"
+		},
+		{
+			"checksumSHA1": "RmM/ylaWxqAlYNIsas8wCcJBTeA=",
+			"path": "github.com/juju/persistent-cookiejar",
+			"revision": "5243747bf8f2d0897f6c7a52799327dc97d585e8",
+			"revisionTime": "2016-11-15T13:33:28Z"
+		},
+		{
+			"checksumSHA1": "I4njd26dG5hxFT2nawuByM4pxzY=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "d228849504861217f796da67fae4f6e347643f15",
+			"revisionTime": "2016-11-03T16:00:40Z"
+		},
+		{
+			"checksumSHA1": "xZuhljnmBysJPta/lMyYmJdujCg=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "30a891c33c7cde7b02a981314b4228ec99380cca",
+			"revisionTime": "2016-11-23T14:36:37Z"
+		},
+		{
+			"checksumSHA1": "AmZIW67T/HUlTTflTmOIy6jdq74=",
+			"path": "golang.org/x/net/publicsuffix",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		},
+		{
+			"checksumSHA1": "nkSUCucyJWGp2kBsYMzQ+UcyftY=",
+			"path": "gopkg.in/errgo.v1",
+			"revision": "442357a80af5c6bf9b6d51ae791a39c3421004f3",
+			"revisionTime": "2016-12-22T12:58:16Z"
+		},
+		{
+			"checksumSHA1": "lBMMakT63h9ywP4d5wlkhOYMCAs=",
+			"path": "gopkg.in/retry.v1",
+			"revision": "c09f6b86ba4d5d2cf5bdf0665364aec9fd4815db",
+			"revisionTime": "2016-10-25T18:07:18Z"
+		}
+	],
+	"rootPath": "github.com/dewey/go-what-finder"
+}
