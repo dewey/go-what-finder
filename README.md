@@ -4,11 +4,15 @@ This is a quick and dirty script to find things to re-seed in your files downloa
 following way:
 
 1) It iterates through all directories in `files/`
+
 2) It'll sort the files by length
+
 3) It'll take the 3 longest filenames and uses them as a search term for the ["Advanced Search"](https://passtheheadphones.me/ajax.php?action=browse&filelist=06-Etched%20Headplate.flac) on PTH in the
    "Filelist" field. This will search through all filelists on the site.
+
 4) The search results will be compared to the original album that we have locally (amount of files, directory
    name and individual file names)
+   
 5) If all these things match for all 3 files we originally checked from the album it'll download the torrent
    file and stores it in the `torrent/` directory. 
 
